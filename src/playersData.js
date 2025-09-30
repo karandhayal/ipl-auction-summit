@@ -1,0 +1,35 @@
+// src/playersData.js
+// The structure is now an array of objects, each with a name and points.
+
+export const playersWithPoints = [
+  { name: "Virat Kohli", points: 100 },
+  { name: "Rohit Sharma", points: 99 },
+  { name: "Jasprit Bumrah", points: 95 },
+  { name: "KL Rahul", points: 92 },
+  { name: "MS Dhoni", points: 90 },
+  { name: "Hardik Pandya", points: 88 },
+  { name: "Ravindra Jadeja", points: 87 },
+  { name: "Shikhar Dhawan", points: 76 },
+  { name: "Rishabh Pant", points: 91 },
+  { name: "Suryakumar Yadav", points: 89 },
+  { name: "Pat Cummins", points: 93 },
+  { name: "David Warner", points: 97 },
+  { name: "Rashid Khan", points: 96 },
+  { name: "Kane Williamson", points: 92 },
+  { name: "Glenn Maxwell", points: 88 },
+  { name: "Shubman Gill", points: 84 },
+  { name: "Yuzvendra Chahal", points: 84 },
+  { name: "Dewald Brewis", points: 80 },
+  { name: "Steve Smith", points: 40 },
+  { name: "Shreyas Iyer", points: 89 },
+  { name: "Jason Roy", points: 82 },
+  { name: "Shimron Hetmyer", points: 73 },
+  { name: "Ewin Lewis", points: 78 },
+  { name: "Ajinkya Rahane", points: 71 },
+  { name: "Aaron Finch", points: 77 },
+  { name: "Surya K Yadav", points: 99 },
+  { name: "Prithvi Shaw", points: 73 },
+  { name: "Mayank Agarwal", points: 79 },
+  { name: "Manish Pandey", points: 76 },
+  // Add all other players with their respective points here
+];

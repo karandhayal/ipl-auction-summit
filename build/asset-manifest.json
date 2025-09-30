@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karandhayal/ipl-auction/static/css/main.e6c13ad2.css",
+    "main.js": "/karandhayal/ipl-auction/static/js/main.99269c0d.js",
+    "static/js/453.1c0bc182.chunk.js": "/karandhayal/ipl-auction/static/js/453.1c0bc182.chunk.js",
+    "index.html": "/karandhayal/ipl-auction/index.html",
+    "main.e6c13ad2.css.map": "/karandhayal/ipl-auction/static/css/main.e6c13ad2.css.map",
+    "main.99269c0d.js.map": "/karandhayal/ipl-auction/static/js/main.99269c0d.js.map",
+    "453.1c0bc182.chunk.js.map": "/karandhayal/ipl-auction/static/js/453.1c0bc182.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.99269c0d.js"
+  ]
+}
